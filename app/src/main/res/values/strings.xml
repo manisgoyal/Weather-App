@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_heading">Enter the City\'s name</string>
+    <string name="edittext_hint">City Name</string>
+    <string name="button_string">Check Weather</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="settings">Settings Please</string>=
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="rounded">Get by Location</string>
+</resources>
